@@ -1,0 +1,258 @@
+body,html{margin:0}
+
+#part1{
+ /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0873c0+0,5ba9d3+100 */
+background: #0873c0; /* Old browsers */
+background: -moz-linear-gradient(top,  #0873c0 0%, #5ba9d3 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #0873c0 0%,#5ba9d3 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #0873c0 0%,#5ba9d3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0873c0', endColorstr='#5ba9d3',GradientType=0 ); /* IE6-9 */
+z-index: -3;
+    margin-top: 190px;
+}
+#ul1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+ /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1463bf+0,508dd4+100 */
+background: #1463bf; /* Old browsers */
+background: -moz-linear-gradient(left,  #1463bf 0%, #508dd4 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #1463bf 0%,#508dd4 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #1463bf 0%,#508dd4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1463bf', endColorstr='#508dd4',GradientType=1 ); /* IE6-9 */
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  
+  #ul1 li {
+    float: left;
+  }
+  
+  #ul1 li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-radius: 7px;
+  }
+  
+  #ul1 .hov:hover {
+    transform:translateY(-6px);
+    transition: transform 0.2s;
+    background-color: #147bf1;
+
+  }
+     
+  #tense{
+    font-family: 'Tangerine', serif;
+    letter-spacing: 3px;
+    font-size: xx-large;
+  }
+
+  #img1{
+      position: relative;
+      top:6px;
+      left: 12px;
+  }
+
+  #ul1 .hov{
+      position: relative;
+      top: 10px;
+  }
+
+  #login{
+      margin-left: 250px;
+      margin-top: 4px;
+
+      background-color: #1463bf;
+      border-radius: 25px;
+      padding:11px 30px 16px 30px !important;
+  }
+  #login:hover{
+    background-color: #7eb3f0;
+    transition:  0.2s;
+
+  }
+
+  #signup{
+    margin-top: 4px;
+
+    background-color: whitesmoke;
+    color: #1463bf !important;
+    border-radius: 25px;
+    padding:12px 30px 12px 30px !important;
+    margin-left: 25px;
+}
+
+#signup:hover{
+    background-color: #7eb3f0;
+    transition:  0.4s;
+
+
+}
+
+.link1{
+    margin-left: 40px !important;
+}
+
+
+#txt1{
+    color: #1463BF;
+text-align: right;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: xx-large;
+font-weight: bold;
+margin:30px 120px 0px 0px
+}
+
+
+#bar{
+    margin:30px 20px 0px 794px;
+border-radius: 17px;
+height: 40px;
+width: 32rem;
+display: inline;
+position: relative;
+bottom:90px;
+
+
+}
+#fig1{
+
+
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: larger;
+line-height: 42px;
+margin-left: 60px;
+color: #1463BF;
+
+}
+
+#fig2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 42px;
+margin-left: 60px;
+color: black;
+}
+
+#emph{
+    color: #1463BF;
+}
+
+.svg1{
+    z-index: -1;
+    position: absolute;
+}
+
+
+#topic{
+    color:#1463BF;
+    font-size: larger;
+   
+}
+
+#consult{
+    width: 221px;
+    background-color: #F4F4F4;
+    padding:20px 10px 10px 10px;
+text-align: center;
+height: 200px;
+border-radius: 30px;
+position: absolute;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+margin-left: 73px;
+}
+
+#hi{
+    position: relative;
+    bottom: 18.5px;
+    font-weight: bold;
+}
+
+#svg2{
+    margin-top: 295px;
+    position: absolute;
+    z-index: -2;
+
+}
+
+#tpc{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 60px;
+margin-top: 300px;    
+z-index: -1;
+text-align: center;
+}
+
+#svg3{
+    position: absolute;
+    bottom: -300px;
+    z-index: -1;
+}
+
+#ott{
+    color: whitesmoke;
+    font-weight: normal;
+    font-size: x-large;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.block{
+    width:300px;
+    height: 300px;
+    background-color: whitesmoke;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+padding:40px 20px 20px 20px;
+box-sizing: border-box;
+border-radius: 27.8px;
+text-justify: distribute;
+text-align: center;
+margin-top: 80px;
+margin-left: 225px;
+display: inline-block;
+box-shadow: 20px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.tilt{
+text-align: center;
+font-weight: 500;
+text-justify:distribute-all-lines;
+position:relative;
+bottom: 27px;
+margin-left: 12px;
+font-size: large;
+
+}
+
+.justtext{
+    margin-top: 30px;
+}
+
+#lastbl{
+    margin-left:470px;
+}
+
+/* taken */
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+  }
+
+  #footer{
+      background-color: black;
+      color: white;
+      text-align: center;
+font-size: large;
+margin-top: 40px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
